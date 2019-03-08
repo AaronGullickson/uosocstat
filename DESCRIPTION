@@ -1,0 +1,10 @@
+Package: uosoc312
+Type: Package
+Title: Data and required packages for UO Sociology 312 course
+Version: 0.1.0
+Author: Aaron Gullickson
+Maintainer: Aaron Gullickson <aarong@uoregon.edu>
+Description: This package contains the example data and extra packages that we will use for the University of Oregon Sociology 312 course. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
